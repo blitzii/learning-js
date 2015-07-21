@@ -10,7 +10,7 @@ console.log(false || true)
 console.log(false || false)
 // > false
 
-
+console.log("fuck")
 /*
 Ternary/conditional operator
 */
