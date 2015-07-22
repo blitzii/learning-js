@@ -6,6 +6,7 @@ while (triLayer.length < 7) {
   console.log(triLayer);
 }
 
+
 // FizzBuzz
 // - Print numbers 1-100
 // - If multiple of 3 -> print 'Fizz'
@@ -23,6 +24,7 @@ for (fzbz = 1; fzbz <= 100; fzbz++) {
   else
     console.log(fzbz)
 }
+
 
 // Chess Board
 // - Create string that represents 8x8 Grid
